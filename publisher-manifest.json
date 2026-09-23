@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "1a7df7c138192b62cb8781c2",
+  "owner": "pgsufnfvt",
+  "repo": "page-8089373c2096349345d7d2e9",
+  "title": "prts",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8089373c2096349345d7d2e9",
+      "a": "prts",
+      "b": "机场官网线路发布页",
+      "entity": "prts",
+      "brand": "prts",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "660d30abb9f39279a54d9d303a18b73abf0970f89d1634cfc4bb1677ab848edd",
+      "content": {
+        "primary_entity": "prts",
+        "keyword1": "prts",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备类型选择对应客户端，按客户端文档导入订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选定合适套餐并完成订阅配置，即可开始使用 prts 海外加速器。",
+          "AI_CLOSING_TITLE": "选择套餐，开始加速",
+          "AI_DESCRIPTION": "，专注海外网络加速服务，提供基础版、旗舰版与团队版三档套餐，覆盖每月 100GB 至 1000GB 流量，支持 3 至 20 台设备同时在线，节点池从普通线路到 IPLC 专线分层，适合个人流媒体、游戏加速及团队协作等不同场景。",
+          "AI_FAQ_ANSWER_1": "基础版适合个人轻度使用，每月 100GB 流量，支持 3 台设备；旗舰版提供 300GB 流量和 5 台设备，并包含 IPLC 专线；团队版有 1000GB 流量和 20 台设备，适合多人协作。",
+          "AI_FAQ_ANSWER_2": "可以。基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台设备同时在线。超出设备数时可考虑升级套餐。",
+          "AI_FAQ_ANSWER_3": "选择与设备匹配的客户端，在客户端内按文档添加订阅链接即可完成导入。不同系统步骤略有差异，请参照对应客户端的使用说明。",
+          "AI_FAQ_ANSWER_4": "提供月付和年付两种周期。年付相当于十个月价格，例如基础版年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线节点，针对游戏加速优化，适合对延迟和稳定性有要求的用户；基础版使用普通线路节点池，适合日常浏览和基础流媒体。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "prts 有哪些套餐可选？",
+          "AI_FAQ_QUESTION_2": "一个订阅可以几台设备同时使用？",
+          "AI_FAQ_QUESTION_3": "如何把订阅导入客户端？",
+          "AI_FAQ_QUESTION_4": "支持哪些付费周期？",
+          "AI_FAQ_QUESTION_5": "旗舰版和基础版线路有什么区别？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个角度对比套餐，能更快找到合适的一档。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB/月、旗舰版 300GB/月、团队版 1000GB/月，按日常用量选档。",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台，覆盖个人到团队规模。",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付更省，基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "按设备数选档",
+          "AI_FEATURE_TITLE_3": "按周期选档",
+          "AI_GUIDE_INTRO": "先确认使用需求，再对照套餐配置，最后按客户端文档完成订阅设置。",
+          "AI_GUIDE_TITLE": "使用路径",
+          "AI_HERO_INTRO": "prts 提供海外网络加速服务，按流量、设备数和线路类型划分基础版、旗舰版与团队版，用户可根据自身使用场景选择套餐并配置订阅。",
+          "AI_HERO_SUBTITLE": "海外加速，按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐，按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "基础版至团队版，月付年付灵活",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线游戏优化",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数和线路类型上依次提升，可按实际用量对比选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量需求、同时在线设备数和线路偏好，确定基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量额度、设备上限和线路类型，确认符合自己的使用场景。",
+          "AI_STEP_TEXT_3": "在对应设备上选择客户端，按客户端文档添加订阅并完成配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "prts 海外加速器套餐指南"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "cyxxk.cn",
+    "host": "cyxxk.cn"
+  },
+  "file_hashes": {
+    "index.html": "24c2fe226a60d2d3d8a7cae59ca32b9b6c9941261dc6553d7166b91beac49d5e",
+    "sitemap.xml": "ccf5bf3a2183087336d50cf47f2995379400825073338cab807040b73239e692",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0e6622accebff94aed03614d5ad61b9fc8d71c2d037b5c0799cfff09c5fc5b15",
+    "robots.txt": "a8490b0ee56f80dfa7316a6cad7956cf49a8d91c71c9e32c42ab8b1bfb84f71a",
+    "03d6975c2df0dd9b443e4e8d452935d4.txt": "17bf1f5b6d68caaa71679513504bd6acdfe36f400f657f3a362593cb14ed4620"
+  },
+  "revision": "9bdb8cae22d8cf607f0642380abe5f4b02047e2c5f64fad31e40c8168e6aa5d0"
+}
